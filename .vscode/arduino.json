@@ -1,0 +1,8 @@
+{
+    "sketch": "path/to/your/sketch.ino",
+    "board": "arduino:esp32:esp32",
+    "configuration": "Default",
+    "output": "build",
+    "port": "COM3" 
+  }
+  
